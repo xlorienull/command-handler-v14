@@ -1,0 +1,19 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "description": "Bot!",
+  "main": "index.js",
+  "author": "JustForever",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord-sync-commands-v14": "^1.0.0",
+    "discord.js": "^14.0.0-dev.1649505803-3c0bbac",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
