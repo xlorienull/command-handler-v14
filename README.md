@@ -11,7 +11,7 @@ global slash command handler for discord.js v14, running on a modified version o
 
 ## Authors
 
-- [@itsCosmos](https://github.com/itsCosmos)
+- [@xlorienull](https://github.com/xlorienull)
 
 
 ## Set-up project
