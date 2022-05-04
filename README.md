@@ -5,7 +5,6 @@ global slash command handler for discord.js v14, running on a modified version o
 
 ## Acknowledgements
 
- - [discord-sync-commands-v14](command-handler-v14)
  - [licensing for this project](https://github.com/matiassingers/awesome-readme)
 
 
