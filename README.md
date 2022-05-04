@@ -7,6 +7,7 @@ global slash command handler for discord.js v14, running on a modified version o
 
  - [licensing for this project](https://github.com/matiassingers/awesome-readme)
  - [Just Forever](https://github.com/DevJustForever)
+ - [GenericNight](https://github.com/GenericNight)
 
 ## Authors
 
